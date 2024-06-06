@@ -1,0 +1,45 @@
+/*
+Styling for github Page
+Mirza Baig
+Jun 5 2024
+*/
+
+/* Header Div to contain title */
+header {
+    background-color: black;
+    color: whitesmoke;
+    font-size: 1.5em;
+    margin: 10px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* wrapper to hold all content divs*/
+.main_content {
+    background-color: rgb(230, 230, 230);
+    align-items: center;
+    margin: auto;
+    padding: 2em;               
+
+}
+
+
+/* landing div (first div in view) */
+.landing {
+    background-color: rgb(200, 200, 200);
+    padding: 1em;
+    align-content: center;
+}
+
+/*  external links at footer */
+.footer_links {
+ background-color: rgb(230, 230, 230);
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+}
+
+/* */
+/* */
